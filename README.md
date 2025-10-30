@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MuleSoft**  
 - 👨‍💻 All of my projects are available at [vonuyvico.com](https://vonuyvico.com)  
-- 💬 Ask me about **Web Development**  
+- 💬 Ask me about **API Development**  
 - 📫 How to reach me **vmuyvico@up.edu.ph**  
 - 📄 Know about my experiences [sanghaya.org](https://sanghaya.org)  
 - ⚡ Fun fact **I think I am funny**
