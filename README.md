@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Von Uyvico</h1>
-<h3 align="center">Full Stack / MuleSoft / A2A Developer | Isko</h3>
+<h3 align="center">Full Stack / MuleSoft / NestJS | Isko</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vonuyvicoo&label=Profile%20views&color=0e75b6&style=flat" alt="vonuyvicoo" />
 </p>
 
-- 🌱 I’m currently learning **MuleSoft**  
+- 🌱 I’m currently learning **MuleSoft and Go**  
 - 👨‍💻 All of my projects are available at [vonuyvico.com](https://vonuyvico.com)  
 - 💬 Ask me about **API Development**  
 - 📫 How to reach me **vmuyvico@up.edu.ph**  
