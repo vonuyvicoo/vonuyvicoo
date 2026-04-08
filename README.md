@@ -35,7 +35,7 @@
   </a>
   <!-- NestJS -->
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://nanostack.io/_next/image?url=https%3A%2F%2Fnanostack.s3.ap-south-1.amazonaws.com%2F17084532480164.png&w=828&q=75" alt="nestjs" width="55" height="55"/>
+    <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="nestjs" width="55" height="55"/>
   </a>
   <!-- MCP -->
   <a href="https://modelcontextprotocol.io" target="_blank" rel="noreferrer">
